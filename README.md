@@ -19,4 +19,4 @@ Estado da lâmpada: "Ligada" ou "Desligada".
 
 Valores dos limiares de acionamento.
 ## Montagem
-![image]
+![image](https://github.com/jessiicalayanne/Sistema-de-Controle-de-Ilumina-o-com-LDR-e-Display-LCD/blob/main/mine%20projeto%20%233.png)
