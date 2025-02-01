@@ -19,3 +19,4 @@ Estado da lâmpada: "Ligada" ou "Desligada".
 
 Valores dos limiares de acionamento.
 ## Montagem
+![image]
